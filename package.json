@@ -15,7 +15,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/ssbeefeater/graphql-query.git"
+    "url": "https://github.com/ssbeefeater/graphql-query-client.git"
   },
   "dependencies": {
     "axios-request-handler": "^1.0.2",
