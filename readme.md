@@ -11,8 +11,6 @@ uses [axios](https://github.com/axios/axios) as HTTP client
 
 [API](#api)
 
-[Examples](#examples)
-
 
 ---
 
