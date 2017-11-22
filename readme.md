@@ -38,8 +38,8 @@ import {
 
 setupEnvironment({
     url: 'http://graphqlFetch.com/graphql',
-    smartFetch: false, // if true, doesn't allow to refetch the data if the params hasn't change
-    smartMutation: false, // if true, doesn't allow to execute the mutation for second time if the params hasn't change
+    smartFetch: false, // if true, doesn't allow to refetch the data if the params haven't change
+    smartMutation: false, // if true, doesn't allow to execute the mutation for second time if the params haven't change
     lockable: false, // if true if you try to make a request when there is a pending one, the second will not be executed
     cancelable: true, // if true if you try to make a request when there is a pending one, the first will be canceled and the new will executed
     errorHandler:(error,method) => {}, // function for handling the errors
